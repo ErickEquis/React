@@ -1,0 +1,2 @@
+Crear proyecto -> npx create-react-app nombreCarpeta ('.' para ocupar misma carpeta como proyecto)
+Inicia proyecto -> npm start
